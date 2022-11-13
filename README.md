@@ -1,1 +1,3 @@
-best_file_cnn_5
+best_file_cnn.h5 - файл весов
+
+
